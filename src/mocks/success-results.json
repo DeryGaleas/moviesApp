@@ -1,0 +1,77 @@
+
+{
+    "Search": [
+      {
+        "Title": "Ghost in the Shell",
+        "Year": "2017",
+        "imdbID": "tt1219827",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell",
+        "Year": "1995",
+        "imdbID": "tt0113568",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell 2: Innocence",
+        "Year": "2004",
+        "imdbID": "tt0347246",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjlkYWVlMjQtMGY3Zi00MWYxLTkxYTItODBkNGUyOWJjMjhjXkEyXkFqcGdeQXVyMTIyNzY1NzM@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell: Stand Alone Complex",
+        "Year": "2002–2005",
+        "imdbID": "tt0346314",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzYzYzAzOWMtZjliYy00OWQ3LTllZDMtNTM1YWY3NDhjOTIwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Marcel the Shell with Shoes On",
+        "Year": "2021",
+        "imdbID": "tt15339456",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODgzZGEwZGQtZjA2Mi00OTI5LWIwZmYtZDQ4OTMxODE0YmU4XkEyXkFqcGdeQXVyOTQ5MDIyNDM@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell 2.0",
+        "Year": "2008",
+        "imdbID": "tt1260502",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjE5MzlmY2QtYmIzMy00ZTIxLTgyYmUtY2MxZmJhN2E2NTAxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+        "Year": "2006",
+        "imdbID": "tt0856797",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3MzU1NDA3N15BMl5BanBnXkFtZTcwNDExNDg0MQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell: Arise - Border 1: Ghost Pain",
+        "Year": "2013",
+        "imdbID": "tt2636124",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDdjMWMwMTEtNDE4OS00ZGNkLWEyZTYtMzllMzFkMWMwYjcxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell: The New Movie",
+        "Year": "2015",
+        "imdbID": "tt4337072",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTFjMzg5MGQtNDg0NC00ZTJjLWFhYmQtYzY0M2YzZDVjOTUxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Ghost in the Shell Arise: Border 2 - Ghost Whisper",
+        "Year": "2013",
+        "imdbID": "tt3017864",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTI0ZDUxM2QtZTVjNy00NjViLThlOTEtZGE1M2NhYzU1OGY1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+      }
+    ],
+    "totalResults": "232",
+    "Response": "True"
+  }
